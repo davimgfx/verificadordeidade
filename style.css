@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+
+body{
+    background-color: rgb(164, 218, 200);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div#box > p {
+    padding: 15px 15px 0px 15px;
+    font-size: 20px;
+}
+
+input{
+    margin: 0px 15px;
+}
+
+section{
+    width: 700px;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px 2px black;
+}
+
+#res{
+    text-align: center;
+    font-size: 20px;
+}
+
+footer > p {
+    text-align: center;
+    
+}
+
+img{
+    display: block;
+    margin: auto;
+    padding: 20px 0 0 0;
+}
